@@ -13,7 +13,7 @@ function sum(a, b) {
 return[(a +b), total];
 }
 
-
+// hi
 // Here is the test for sum(); uncomment it to run it
 testSum(4, 7);
 
